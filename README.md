@@ -1,5 +1,5 @@
 👋 Hi, I’m Jiri @Houzvicka
-📫 You can reach me at houzvicka@jiri.it
+and you can reach me at 📫 houzvicka@jiri.it and 🐦 @houzvicka
 
 <!---
 Houzvicka/Houzvicka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
